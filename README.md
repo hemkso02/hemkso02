@@ -87,7 +87,7 @@ Here's a snapshot of the tools and technologies I work with:
 * **LinkedIn:** [HemKumarSomala](https://www.linkedin.com/in/hemkumarsomala/)
 * **Portfolio Website (if you have one separate from GitHub):** [[Your Portfolio]]([Your Portfolio URL])
 * **Tableau Public (if you use it):** [[Your Profile]]([Your Tableau Public URL])
-* **Email:** `[your.email@example.com](mailto:your.email@example.com)`
+* **Email:** [hemkumarsomala@gmail.com](mailto:hemkumarsomala@gmail.com)
 <!--
 **hemkso02/hemkso02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
