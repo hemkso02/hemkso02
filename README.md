@@ -5,6 +5,20 @@ I'm passionate about data analysis and BI architecture, driving innovation and c
 
 Welcome to my corner of GitHub!
 
+## 🛠️ Skills & Technologies
+
+Here's a snapshot of the tools and technologies I work with:
+* **Programming Languages:** SQL
+* **Data Manipulation & Analysis:** DBT
+* **Databases:** MySQL, Snowflake, Redshift, Netezza, Sybase, Oracle, Impala
+* **Data Visualization:** PowerBI, MicroStrategy, Tableau, AWS QuickSight, Excel
+* **Machine Learning (if applicable):** Scikit-learn, TensorFlow, Keras, PyTorch
+* **Big Data Tools (if applicable):**  Hadoop
+* **Cloud Platforms (if applicable):** AWS (S3, Redshift, SageMaker), Azure
+* **Version Control:** Git & GitHub
+* **Other Tools:** Fabric
+---
+
 ## 🌟 Accolades & Shout-Outs
 
 Here's some of the feedback I've received for my work:
@@ -52,6 +66,7 @@ Here's some of the feedback I've received for my work:
     * "His expert navigation, ownership, and attention to detail helped the team get accurate data quickly and efficiently."
     * "Appreciate all his help and he has earned our trust as a valuable MSTR CSInsight SME."
 * **Recognized for:** `Bias for Action`, `Deliver Results`, `Ownership`
+---
 
 ## 🛠️ Skills & Technologies
 
