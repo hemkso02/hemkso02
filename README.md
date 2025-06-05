@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there, I'm HemKumar Somala 👋
 
 I'm a Lead Business Intelligence Engineer based of Cincinnati Ohio
