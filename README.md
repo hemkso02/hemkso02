@@ -80,6 +80,14 @@ Here's a snapshot of the tools and technologies I work with:
 * **Cloud Platforms (if applicable):** AWS (S3, Redshift, SageMaker), Azure
 * **Version Control:** Git & GitHub
 * **Other Tools:** Fabric
+
+---
+## 🤝 Connect With Me
+
+* **LinkedIn:** [HemKumarSomala](https://www.linkedin.com/in/hemkumarsomala/)
+* **Portfolio Website (if you have one separate from GitHub):** [[Your Portfolio]]([Your Portfolio URL])
+* **Tableau Public (if you use it):** [[Your Profile]]([Your Tableau Public URL])
+* **Email:** `[your.email@example.com]` (You can make this a mailto link: `[your.email@example.com](mailto:your.email@example.com)`)
 <!--
 **hemkso02/hemkso02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
