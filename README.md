@@ -39,7 +39,7 @@ Here's some of the feedback I've received for my work:
 ---
 
 ### CSBA CS Ops Data Support 🤝
-* **From:** Namrata Inamke-Lawande (January 31, 2023)
+* **From:** Namrata Inamke-Lawande (January 31, 2023) - (https://github.com/hemkso02/hemkso02/blob/main/Namratha.jpg)
 * **Project:** Urgent Ops data request for the CSBA CS team.
 * **Impact:**
     * "Hem quickly volunteered to pull the data, helped build a comprehensive report in CSInsight MSTR, checked for errors and iterated on the data fields with the team."
