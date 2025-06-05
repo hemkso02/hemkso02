@@ -111,8 +111,6 @@ Here's a summary of some of my key projects, showcasing my experience in data an
 ## 🤝 Connect With Me
 
 * **LinkedIn:** [HemKumarSomala](https://www.linkedin.com/in/hemkumarsomala/)
-* **Portfolio Website (if you have one separate from GitHub):** [[Your Portfolio]]([Your Portfolio URL])
-* **Tableau Public (if you use it):** [[Your Profile]]([Your Tableau Public URL])
 * **Email:** [hemkumarsomala@gmail.com](mailto:hemkumarsomala@gmail.com)
 <!--
 **hemkso02/hemkso02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
