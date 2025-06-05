@@ -80,9 +80,7 @@ Here's some of the feedback I've received for my work:
 
 Here's a summary of some of my key projects, showcasing my experience in data analysis, business intelligence, and project leadership. (few of the projects)
 
----
-
-#### Concession Savings (Amazon)
+#### 1. Concession Savings (Amazon)
 
 * **Objective:** To identify and mitigate concession leakage by analyzing concessions data, ultimately driving significant cost savings for Amazon.
 * **Key Contributions & Achievements:**
@@ -92,9 +90,7 @@ Here's a summary of some of my key projects, showcasing my experience in data an
     * **Impact:** Delivered annual savings of approximately **$43 million** for Amazon.
 * **Technologies Used:** SQL, PowerBI, Athena, AWS QuickSight
 
----
-
-#### Nielsen Insight Studio (Nielsen)
+#### 2. Nielsen Insight Studio (Nielsen)
 
 * **Objective:** To lead the Business Intelligence component of a major client project, delivering a comprehensive suite of interactive dashboards for PepsiCo.
 * **Key Contributions & Achievements:**
@@ -103,9 +99,7 @@ Here's a summary of some of my key projects, showcasing my experience in data an
     * Ensured project milestones were met and deliverables aligned with client expectations.
 * **Technologies Used:** MicroStrategy
 
----
-
-#### Retail CPG Analysis (Quotient)
+#### 3. Retail CPG Analysis (Quotient)
 
 * **Objective:** To enhance operational efficiency for CSM (Customer Success Managers) by designing and implementing an intuitive Business Intelligence dashboard.
 * **Key Contributions & Achievements:**
