@@ -85,11 +85,18 @@ Here's a snapshot of the tools and technologies I work with:
 
 ## 📜 Certifications
 
-* **Fabric Analytics Engineer Certified** - *[Issuing Organization]*
+* **Fabric Analytics Engineer Certified** - *Microsoft*
     * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/410633176dc138dc?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
-* **[Certification Name 2]** - *[Issuing Organization]* (Month Year)
-* *(Add more as needed)*
-
+* **Azure AI Fundamentals Certified** - *Microsoft*
+    * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/eaf77d54c677ac5)
+* **Power BI Data Analyst Associate Certified** - *Microsoft*
+    * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/32367f11f80542cf)
+* **MicroStrategy Certified Architect** - *MicroStrategy*
+    * [[Verify/View Badge]](https://www.credential.net/1e041304-d3ad-409f-99bc-f42d75e8c0db#acc.4VBdzuWa)
+* **Tableau Desktop Certified Specialist** - *Tableau*
+    * [[Verify/View Badge]](https://www.linkedin.com/posts/activity-6869323687422701569-1eeS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABBqJYsB4jRcw8nTNW5zL8AHvTahoFy-B3o)
+* **Google Analytics Qualified Individual** - *Google*
+    Credential ID: 46445207
 ---
 
 ## 🤝 Connect With Me
