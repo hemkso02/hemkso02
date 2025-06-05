@@ -1,7 +1,7 @@
 # Hi there, I'm HemKumar Somala 👋
 
 I'm a Lead Business Intelligence Engineer based of Cincinnati Ohio
-I'm passionate about data analysis and BIarchitecture, driving innovation and collaboration across departments to set BI report standards. Expert in SQL, PowerBI, Tableau, AWS QuickSight, and MicroStrategy, with a proven history of enhancing data-drivendecision-making.
+I'm passionate about data analysis and BI architecture, driving innovation and collaboration across departments to set BI report standards. Expert in SQL, PowerBI, Tableau, AWS QuickSight, and MicroStrategy, with a proven history of enhancing data-driven decision-making.
 
 Welcome to my corner of GitHub!
 
