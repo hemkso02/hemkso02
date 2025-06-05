@@ -29,7 +29,7 @@ Here's some of the feedback I've received for my work:
 ---
 
 ### Amazon Locker QS Dash Development ⚡
-* **From:** Stephen Monacelli (March 22, 2023) - ([blob/main/Stephen.JPG] (https://github.com/hemkso02/hemkso02/blob/main/Stephen.JPG))
+* **From:** Stephen Monacelli (March 22, 2023) - ([blob/main/Stephen.JPG](https://github.com/hemkso02/hemkso02/blob/main/Stephen.JPG))
 * **Project:** Data request for Amazon Locker delivery.
 * **Impact:**
     * "Showed Bias for Action by turning that request in less than a day and Ownership by going over and above to turn the request into a QS dash that can be used going forward."
