@@ -96,7 +96,7 @@ Here's a snapshot of the tools and technologies I work with:
 * **Tableau Desktop Certified Specialist** - *Tableau*
     * [[Verify/View Badge]](https://www.linkedin.com/posts/activity-6869323687422701569-1eeS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABBqJYsB4jRcw8nTNW5zL8AHvTahoFy-B3o)
 * **Google Analytics Qualified Individual** - *Google*
-    Credential ID: 46445207
+    * Credential ID: 46445207
 ---
 
 ## 🤝 Connect With Me
