@@ -53,7 +53,18 @@ Here's some of the feedback I've received for my work:
     * "Appreciate all his help and he has earned our trust as a valuable MSTR CSInsight SME."
 * **Recognized for:** `Bias for Action`, `Deliver Results`, `Ownership`
 
-* 
+## 🛠️ Skills & Technologies
+
+Here's a snapshot of the tools and technologies I work with:
+* **Programming Languages:** SQL
+* **Data Manipulation & Analysis:** DBT
+* **Databases:** MySQL, Snowflake, Redshift, Netezza, Sybase, Oracle, Impala
+* **Data Visualization:** PowerBI, MicroStrategy, Tableau, AWS QuickSight, Excel
+* **Machine Learning (if applicable):** Scikit-learn, TensorFlow, Keras, PyTorch
+* **Big Data Tools (if applicable):**  Hadoop
+* **Cloud Platforms (if applicable):** AWS (S3, Redshift, SageMaker), Azure
+* **Version Control:** Git & GitHub
+* **Other Tools:** Fabric
 <!--
 **hemkso02/hemkso02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
