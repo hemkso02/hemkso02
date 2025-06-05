@@ -8,7 +8,7 @@ Welcome to my corner of GitHub!
 
 ## 🛠️ Skills & Technologies
 
-* ***Programming Languages:** SQL
+* ****Programming Languages:** SQL
 * **Data Manipulation & Analysis:** DBT
 * **Databases:** MySQL, Snowflake, Redshift, Netezza, Sybase, Oracle, Impala
 * **Data Visualization:** PowerBI, MicroStrategy, Tableau, AWS QuickSight, Excel
