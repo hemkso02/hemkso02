@@ -37,7 +37,7 @@ Here's some of the feedback I've received for my work:
 
 ---
 
-### ShopX Power BI and Power Cube Development & Presentation 📊
+#### ShopX Power BI and Power Cube Development & Presentation 📊
 * **From:** Shruti Babre (March 6, 2024) - ([blob/main/Shruti.JPG](https://github.com/hemkso02/hemkso02/blob/main/Shruti.JPG))
 * **Project:** Crafting the working backwards plan for the ShopX cube and presenting it.
 * **Impact:**
@@ -48,7 +48,7 @@ Here's some of the feedback I've received for my work:
 
 ---
 
-### Amazon Locker QuickSight Dashboard Development ⚡
+#### Amazon Locker QuickSight Dashboard Development ⚡
 * **From:** Stephen Monacelli (March 22, 2023) - ([blob/main/Stephen.JPG](https://github.com/hemkso02/hemkso02/blob/main/Stephen.JPG))
 * **Project:** Data request for Amazon Locker delivery.
 * **Impact:**
@@ -58,7 +58,7 @@ Here's some of the feedback I've received for my work:
 
 ---
 
-### CSBA CS Ops Data Support 🤝
+#### CSBA CS Ops Data Support 🤝
 * **From:** Namrata Inamke-Lawande (January 31, 2023) - ([blob/main/Namratha.JPG](https://github.com/hemkso02/hemkso02/blob/main/Namratha.jpg))
 * **Project:** Urgent Ops data request for the CSBA CS team.
 * **Impact:**
