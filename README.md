@@ -6,7 +6,7 @@ Here's some of the feedback I've received for my work:
 ---
 
 ### SCR QS Dashboard & Automation 🚀
-* **From:** Katie Smetana (March 29, 2024) - (blob/main/Katie.JPG)
+* **From:** Katie Smetana (March 29, 2024) - ([blob/main/Katie.JPG](https://github.com/hemkso02/hemkso02/blob/main/Katie.JPG))
 * **Project:** Development and expansion of the Small Concessions (SCR) QS dashboard.
 * **Impact:**
     * "Continues to be a critical tool for managing the US SCR workstream."
