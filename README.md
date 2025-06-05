@@ -32,7 +32,7 @@ Here's some of the feedback I've received for my work:
     * "The project we started on so long ago continues to be a valuable tool."
 * **Recognized for:** `Invent and Simplify`, `Think Big`
 
----
+--
 
 #### ShopX Power BI and Power Cube Development & Presentation 📊
 * **From:** Shruti Babre (March 6, 2024) - ([blob/main/Shruti.JPG](https://github.com/hemkso02/hemkso02/blob/main/Shruti.JPG))
