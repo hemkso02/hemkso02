@@ -5,7 +5,7 @@ Here's some of the feedback I've received for my work:
 
 ---
 
-### SCR QS Dashboard & Automation 🚀
+### SCR QuickSight Dashboard & Automation 🚀
 * **From:** Katie Smetana (March 29, 2024) - ([blob/main/Katie.JPG](https://github.com/hemkso02/hemkso02/blob/main/Katie.JPG))
 * **Project:** Development and expansion of the Small Concessions (SCR) QS dashboard.
 * **Impact:**
@@ -17,7 +17,7 @@ Here's some of the feedback I've received for my work:
 
 ---
 
-### ShopX Cube Development & Presentation 📊
+### ShopX Power BI and Power Cube Development & Presentation 📊
 * **From:** Shruti Babre (March 6, 2024) - ([blob/main/Shruti.JPG](https://github.com/hemkso02/hemkso02/blob/main/Shruti.JPG))
 * **Project:** Crafting the working backwards plan for the ShopX cube and presenting it.
 * **Impact:**
@@ -28,7 +28,7 @@ Here's some of the feedback I've received for my work:
 
 ---
 
-### Amazon Locker QS Dash Development ⚡
+### Amazon Locker QuickSight Dashboard Development ⚡
 * **From:** Stephen Monacelli (March 22, 2023) - ([blob/main/Stephen.JPG](https://github.com/hemkso02/hemkso02/blob/main/Stephen.JPG))
 * **Project:** Data request for Amazon Locker delivery.
 * **Impact:**
