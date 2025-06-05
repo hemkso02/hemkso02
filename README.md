@@ -18,7 +18,7 @@ Here's some of the feedback I've received for my work:
 ---
 
 ### ShopX Cube Development & Presentation 📊
-* **From:** Shruti Babre (March 6, 2024) - ([blob/main/Shruti.JPG])
+* **From:** Shruti Babre (March 6, 2024) - ([blob/main/Shruti.JPG](https://github.com/hemkso02/hemkso02/blob/main/Katie.JPG))
 * **Project:** Crafting the working backwards plan for the ShopX cube and presenting it.
 * **Impact:**
     * "A huge round of applause for Hem for crafting an exceptional working backwards plan for developing the ShopX cube and presenting it flawlessly to the customer."
