@@ -13,7 +13,7 @@ Welcome to my corner of GitHub!
 * **Databases:** MySQL, Snowflake, Redshift, Netezza, Sybase, Oracle, Impala
 * **Data Visualization:** PowerBI, MicroStrategy, Tableau, AWS QuickSight, Excel
 * **Big Data Tools :**  Hadoop
-* **Cloud Platforms :** AWS (S3, Redshift, SageMaker), Azure
+* **Cloud Platforms :** AWS (S3, Redshift,Athena), Azure
 * **Version Control:** Git & GitHub
 * **Other Tools:** Fabric
 ---
