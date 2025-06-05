@@ -8,14 +8,12 @@ Welcome to my corner of GitHub!
 
 ## 🛠️ Skills & Technologies
 
-Here's a snapshot of the tools and technologies I work with:
 * **Programming Languages:** SQL
 * **Data Manipulation & Analysis:** DBT
 * **Databases:** MySQL, Snowflake, Redshift, Netezza, Sybase, Oracle, Impala
 * **Data Visualization:** PowerBI, MicroStrategy, Tableau, AWS QuickSight, Excel
-* **Machine Learning (if applicable):** Scikit-learn, TensorFlow, Keras, PyTorch
-* **Big Data Tools (if applicable):**  Hadoop
-* **Cloud Platforms (if applicable):** AWS (S3, Redshift, SageMaker), Azure
+* **Big Data Tools :**  Hadoop
+* **Cloud Platforms :** AWS (S3, Redshift, SageMaker), Azure
 * **Version Control:** Git & GitHub
 * **Other Tools:** Fabric
 ---
