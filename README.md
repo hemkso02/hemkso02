@@ -82,6 +82,16 @@ Here's a snapshot of the tools and technologies I work with:
 * **Other Tools:** Fabric
 
 ---
+
+## 📜 Certifications
+
+* **Fabric Analytics Engineer Certified** - *[Issuing Organization]*
+    * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/410633176dc138dc?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
+* **[Certification Name 2]** - *[Issuing Organization]* (Month Year)
+* *(Add more as needed)*
+
+---
+
 ## 🤝 Connect With Me
 
 * **LinkedIn:** [HemKumarSomala](https://www.linkedin.com/in/hemkumarsomala/)
