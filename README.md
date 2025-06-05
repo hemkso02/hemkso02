@@ -82,7 +82,44 @@ Here's some of the feedback I've received for my work:
 * **Google Analytics Qualified Individual** - *Google*
     * Credential ID: 46445207
 ---
+## Project Portfolio
 
+Here's a summary of some of my key projects, showcasing my experience in data analysis, business intelligence, and project leadership. (few of the projects)
+
+---
+
+### Concession Savings (Amazon)
+
+* **Objective:** To identify and mitigate concession leakage by analyzing concessions data, ultimately driving significant cost savings for Amazon.
+* **Key Contributions & Achievements:**
+    * Analyzed and researched extensive concessions data using **SQL**.
+    * Developed a dynamic workflow dashboard in **PowerBI** and **AWS QuickSight** to enable deep-dive analysis and ongoing monitoring.
+    * Successfully identified critical points of concession leakage through detailed data exploration.
+    * **Impact:** Delivered annual savings of approximately **$43 million** for Amazon.
+* **Technologies Used:** SQL, PowerBI, Athena, AWS QuickSight
+
+---
+
+### Nielsen Insight Studio (Nielsen)
+
+* **Objective:** To lead the Business Intelligence component of a major client project, delivering a comprehensive suite of interactive dashboards for PepsiCo.
+* **Key Contributions & Achievements:**
+    * Served as the **BI Technical Lead** for Nielsen's **$40 million** BI project initiative for PepsiCo.
+    * Managed the end-to-end development and timely delivery of **64 interactive dashboards**, optimized for both web and mobile platforms.
+    * Ensured project milestones were met and deliverables aligned with client expectations.
+* **Technologies Used:** MicroStrategy
+
+---
+
+### Retail CPG Analysis (Quotient)
+
+* **Objective:** To enhance operational efficiency for CSM (Customer Success Managers) by designing and implementing an intuitive Business Intelligence dashboard.
+* **Key Contributions & Achievements:**
+    * Designed and developed a comprehensive BI dashboard using **MicroStrategy**.
+    * **Impact:** Reduced CSM managers' dashboard development overhead by **82%**.
+    * Achieved estimated monthly computed savings of **2,400 hours** of manual effort.
+* **Technologies Used:** MicroStrategy
+---
 ## 🤝 Connect With Me
 
 * **LinkedIn:** [HemKumarSomala](https://www.linkedin.com/in/hemkumarsomala/)
