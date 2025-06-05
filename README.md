@@ -88,7 +88,7 @@ Here's a summary of some of my key projects, showcasing my experience in data an
 
 ---
 
-### Concession Savings (Amazon)
+#### Concession Savings (Amazon)
 
 * **Objective:** To identify and mitigate concession leakage by analyzing concessions data, ultimately driving significant cost savings for Amazon.
 * **Key Contributions & Achievements:**
@@ -100,7 +100,7 @@ Here's a summary of some of my key projects, showcasing my experience in data an
 
 ---
 
-### Nielsen Insight Studio (Nielsen)
+#### Nielsen Insight Studio (Nielsen)
 
 * **Objective:** To lead the Business Intelligence component of a major client project, delivering a comprehensive suite of interactive dashboards for PepsiCo.
 * **Key Contributions & Achievements:**
@@ -111,7 +111,7 @@ Here's a summary of some of my key projects, showcasing my experience in data an
 
 ---
 
-### Retail CPG Analysis (Quotient)
+#### Retail CPG Analysis (Quotient)
 
 * **Objective:** To enhance operational efficiency for CSM (Customer Success Managers) by designing and implementing an intuitive Business Intelligence dashboard.
 * **Key Contributions & Achievements:**
