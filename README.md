@@ -20,6 +20,22 @@ Welcome to my corner of GitHub!
 * **Other Tools:** Fabric
 ---
 
+## 📜 Certifications
+
+* **Fabric Analytics Engineer Certified** - *Microsoft*
+    * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/410633176dc138dc?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
+* **Azure AI Fundamentals Certified** - *Microsoft*
+    * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/eaf77d54c677ac5)
+* **Power BI Data Analyst Associate Certified** - *Microsoft*
+    * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/32367f11f80542cf)
+* **MicroStrategy Certified Architect** - *MicroStrategy*
+    * [[Verify/View Badge]](https://www.credential.net/1e041304-d3ad-409f-99bc-f42d75e8c0db#acc.4VBdzuWa)
+* **Tableau Desktop Certified Specialist** - *Tableau*
+    * [[Verify/View Badge]](https://www.linkedin.com/posts/activity-6869323687422701569-1eeS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABBqJYsB4jRcw8nTNW5zL8AHvTahoFy-B3o)
+* **Google Analytics Qualified Individual** - *Google*
+    * Credential ID: 46445207
+---
+
 ## 🌟 Accolades & Shout-Outs
 
 Here's some of the feedback I've received for my work:
@@ -59,7 +75,7 @@ Here's some of the feedback I've received for my work:
     * "His expert navigation, ownership, and attention to detail helped the team get accurate data quickly and efficiently."
     * "Appreciate all his help and he has earned our trust as a valuable MSTR CSInsight SME."
 * **Recognized for:** `Bias for Action`, `Deliver Results`, `Ownership`
----
+
 #### 5. RiQ Dashboard (Quotient)
 * **From:** Stefan Stanev, Senior Strategy & Insights Manager - ([blob/main/Stefan_Quotient.jpg](https://github.com/hemkso02/hemkso02/blob/main/Stefan_Quotient.jpg))
 * **Project:** RiQ Retailer Dashboard 
@@ -69,9 +85,11 @@ Here's some of the feedback I've received for my work:
   * This foundational work empowered the sales team with self-service analytics and paved the way for future client-facing versions.
 * **Appreciation Note:** "I have worked with Hem over the last 3 weeks to complete it and must say that he did an outstanding job! he input a lot of work to get this done by the Sprint. This report will save enormous time for us on AIT and Sales and will be used broadly so we will be enhancing it further and am looking forward to work with Hem !"
 
-## 📜 Certifications
+---
 
-* **Fabric Analytics Engineer Certified** - *Microsoft*
+## 📜 Awards
+
+* **DossBoss Winner Across all Regions** - *MicroStrategy*
     * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/410633176dc138dc?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
 * **Azure AI Fundamentals Certified** - *Microsoft*
     * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/eaf77d54c677ac5)
