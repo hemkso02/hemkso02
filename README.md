@@ -61,7 +61,7 @@ Here's some of the feedback I've received for my work:
 * **Recognized for:** `Bias for Action`, `Deliver Results`, `Ownership`
 ---
 #### 5. RiQ Dashboard (Quotient)
-* **From:** Stefan Stanev, Senior Strategy & Insights Manager - ([blob/main/Stefan_Quotient.JPG](https://github.com/hemkso02/hemkso02/blob/main/Stefan_Quotient.JPG))
+* **From:** Stefan Stanev, Senior Strategy & Insights Manager - ([blob/main/Stefan_Quotient.jpg](https://github.com/hemkso02/hemkso02/blob/main/Stefan_Quotient.jpg))
 * **Project:** RiQ Retailer Dashboard 
 * **Impact:**  ([blob/main/stefan_RiQ Dashboard Benefits.JPG](https://github.com/hemkso02/hemkso02/blob/main/stefan_RiQ Dashboard Benefits.JPG))
   * This dashboard proved to be a significant enabler for the sales and insights teams. By providing direct and clear access to retailer data, it saved an enormous amount of time for both departments.
