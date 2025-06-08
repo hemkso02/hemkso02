@@ -90,18 +90,16 @@ Here's some of the feedback I've received for my work:
 ## 📜 Awards
 
 * **DossBoss Winner Across all Regions** - *MicroStrategy*
-    * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/410633176dc138dc?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
-* **Azure AI Fundamentals Certified** - *Microsoft*
-    * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/eaf77d54c677ac5)
-* **Power BI Data Analyst Associate Certified** - *Microsoft*
-    * [[Verify/View Badge]](https://learn.microsoft.com/en-us/users/hemkumarsomala-4686/credentials/32367f11f80542cf)
-* **MicroStrategy Certified Architect** - *MicroStrategy*
-    * [[Verify/View Badge]](https://www.credential.net/1e041304-d3ad-409f-99bc-f42d75e8c0db#acc.4VBdzuWa)
-* **Tableau Desktop Certified Specialist** - *Tableau*
-    * [[Verify/View Badge]](https://www.linkedin.com/posts/activity-6869323687422701569-1eeS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABBqJYsB4jRcw8nTNW5zL8AHvTahoFy-B3o)
-* **Google Analytics Qualified Individual** - *Google*
-    * Credential ID: 46445207
+    * [[Verify]](https://www.linkedin.com/feed/update/urn:li:activity:6772591711374983168/)
+    * Stood first in dossboss competition for developing a dashboard that is breeze for users to navigate through the analysis
+* **Special Appreciation in MicroStrategy NewsLetter for my analytics efforts** - *MicroStrategy*
+    * [[Verify]](https://medium.com/microstrategy/the-future-is-now-with-microstrategy-2021-57f454d8e468)    
+* **Excellence Award from Nielsen** - *Nielsen*
+    * [[Verify]](https://github.com/hemkso02/hemkso02/blob/main/Nielsen.jpg)
+* **Star Performer** - *TCS*
+    * [[Verify]](https://github.com/hemkso02/hemkso02/blob/main/TCS.jpg)
 ---
+
 ## Project Portfolio
 
 Here's a summary of some of my key projects, showcasing my experience in data analysis, business intelligence, and project leadership. (few of the projects)
