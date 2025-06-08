@@ -89,8 +89,8 @@ Here's some of the feedback I've received for my work:
 
 ## 📜 Awards
 
-* **DossBoss Winner Across all Regions** - *MicroStrategy* - * [[Verify]](https://www.linkedin.com/feed/update/urn:li:activity:6772591711374983168/)
-* * **Special Appreciation in MicroStrategy NewsLetter for my analytics efforts** - *MicroStrategy* - * [[Verify]](https://medium.com/microstrategy/the-future-is-now-with-microstrategy-2021-57f454d8e468)    
+* **DossBoss Winner Across all Regions** - *MicroStrategy* [[Verify]](https://www.linkedin.com/feed/update/urn:li:activity:6772591711374983168/)
+* **Special Appreciation in MicroStrategy NewsLetter for my analytics efforts** - *MicroStrategy* - * [[Verify]](https://medium.com/microstrategy/the-future-is-now-with-microstrategy-2021-57f454d8e468)    
 * **Excellence Award from Nielsen** - *Nielsen* -  * [[Verify]](https://github.com/hemkso02/hemkso02/blob/main/Nielsen.jpg)
 * **Star Performer** - *TCS* -  * [[Verify]](https://github.com/hemkso02/hemkso02/blob/main/TCS.jpg)
 ---
