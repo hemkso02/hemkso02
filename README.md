@@ -24,8 +24,8 @@ Welcome to my corner of GitHub!
 
 Here's some of the feedback I've received for my work:
 
-#### 1. SCR QuickSight Dashboard & Automation 🚀
-* **From:** Katie Smetana (March 29, 2024) - ([blob/main/Katie.JPG](https://github.com/hemkso02/hemkso02/blob/main/Katie.JPG))
+#### 1. SCR QuickSight Dashboard & Automation 🚀 (Amazon)
+* **From:** Katie Smetana - Sr Program Manager (March 29, 2024) - ([blob/main/Katie.JPG](https://github.com/hemkso02/hemkso02/blob/main/Katie.JPG))
 * **Project:** Development and expansion of the Small Concessions (SCR) QS dashboard.
 * **Impact:**
     * "Continues to be a critical tool for managing the US SCR workstream."
@@ -34,8 +34,16 @@ Here's some of the feedback I've received for my work:
     * "The project we started on so long ago continues to be a valuable tool."
 * **Recognized for:** `Invent and Simplify`, `Think Big`
 
-#### 2. ShopX Power BI and Power Cube Development & Presentation 📊
-* **From:** Shruti Babre (March 6, 2024) - ([blob/main/Shruti.JPG](https://github.com/hemkso02/hemkso02/blob/main/Shruti.JPG))
+#### 2. Amazon Locker QuickSight Dashboard Development ⚡(Amazon)
+* **From:** Stephen Monacelli - Sr Program Manager (March 22, 2023) - ([blob/main/Stephen.JPG](https://github.com/hemkso02/hemkso02/blob/main/Stephen.JPG))
+* **Project:** Data request for Amazon Locker delivery.
+* **Impact:**
+    * "Showed Bias for Action by turning that request in less than a day and Ownership by going over and above to turn the request into a QS dash that can be used going forward."
+    * "Really appreciate it!"
+* **Recognized for:** `Bias for Action`, `Ownership`
+
+#### 3. ShopX Power BI and Power Cube Development & Presentation 📊 (Amazon)
+* **From:** Shruti Babre - Amazon (March 6, 2024) - ([blob/main/Shruti.JPG](https://github.com/hemkso02/hemkso02/blob/main/Shruti.JPG))
 * **Project:** Crafting the working backwards plan for the ShopX cube and presenting it.
 * **Impact:**
     * "A huge round of applause for Hem for crafting an exceptional working backwards plan for developing the ShopX cube and presenting it flawlessly to the customer."
@@ -43,15 +51,7 @@ Here's some of the feedback I've received for my work:
     * "Your contribution is invaluable to our success!"
 * **Recognized for:** `Customer Obsession`, `Earn Trust`, `Deliver Results`
 
-#### 3. Amazon Locker QuickSight Dashboard Development ⚡
-* **From:** Stephen Monacelli (March 22, 2023) - ([blob/main/Stephen.JPG](https://github.com/hemkso02/hemkso02/blob/main/Stephen.JPG))
-* **Project:** Data request for Amazon Locker delivery.
-* **Impact:**
-    * "Showed Bias for Action by turning that request in less than a day and Ownership by going over and above to turn the request into a QS dash that can be used going forward."
-    * "Really appreciate it!"
-* **Recognized for:** `Bias for Action`, `Ownership`
-
-#### 4. CSBA CS Ops Data Support 🤝
+#### 4. CSBA CS Ops Data Support 🤝 (Amazon)
 * **From:** Namrata Inamke-Lawande (January 31, 2023) - ([blob/main/Namratha.JPG](https://github.com/hemkso02/hemkso02/blob/main/Namratha.jpg))
 * **Project:** Urgent Ops data request for the CSBA CS team.
 * **Impact:**
@@ -60,6 +60,15 @@ Here's some of the feedback I've received for my work:
     * "Appreciate all his help and he has earned our trust as a valuable MSTR CSInsight SME."
 * **Recognized for:** `Bias for Action`, `Deliver Results`, `Ownership`
 ---
+#### 5. RiQ Dashboard (Quotient)
+
+* **From:** Stefan Stanev, Senior Strategy & Insights Manager, Quotient
+* **Project:** RiQ Retailer Dashboard 
+* **Impact:**
+  * This dashboard proved to be a significant enabler for the sales and insights teams. By providing direct and clear access to retailer data, it saved an enormous amount of time for both departments.
+  * The tool streamlined the creation of Retailer Scorecards, making it possible to generate over 40 comprehensive decks in just two months—a feat that would have been impossible with previous methods.
+  * This foundational work empowered the sales team with self-service analytics and paved the way for future client-facing versions.
+* **Appreciation Note:** "I have worked with Hem over the last 3 weeks to complete it and must say that he did an outstanding job! he input a lot of work to get this done by the Sprint. This report will save enormous time for us on AIT and Sales and will be used broadly so we will be enhancing it further and am looking forward to work with Hem !"
 
 ## 📜 Certifications
 
