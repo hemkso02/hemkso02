@@ -6,13 +6,13 @@ I'm passionate about data analysis and BI architecture, driving innovation and c
 
 Welcome to my corner of GitHub!
 
-* **Current Employer & Position:**
-* Cincinnati Children's Hospital - Lead Business Intelligence Engineer
-* **Previous Employers:**
-* Amazon
-* Quotient Technologies
-* Cognizant
-* TCS
+* **Current Employer & Position:***
+              Cincinnati Children's Hospital - Lead Business Intelligence Engineer
+* **Previous Employers:** 
+*             Amazon
+            * Quotient Technologies
+            * Cognizant
+            * TCS
 ---
 
 ## 🛠️ Skills & Technologies
