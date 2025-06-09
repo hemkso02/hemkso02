@@ -13,7 +13,7 @@ Welcome to my corner of GitHub!
 * **Programming Languages:** SQL
 * **Data Manipulation & Analysis:** DBT
 * **Databases:** MySQL, Snowflake, Redshift, Netezza, Sybase, Oracle, Impala
-* **Data Visualization:** PowerBI, MicroStrategy, Tableau, AWS QuickSight, Excel
+* **Data Visualization:** PowerBI, MicroStrategy, Tableau, AWS QuickSight
 * **Big Data Tools :**  Hadoop
 * **Cloud Platforms :** AWS (S3, Redshift,Athena), Azure
 * **Version Control:** Git & GitHub
