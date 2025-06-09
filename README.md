@@ -9,10 +9,10 @@ Welcome to my corner of GitHub!
 * **Current Employer & Position:** 
    * Cincinnati Children's Hospital - Lead Business Intelligence Engineer
 * **Previous Employers:** 
-  * Amazon - Business Intelligence Engineer
-  * Quotient Technologies - Senior Software Engineer
-  * Cognizant - Senior Associate
-  * TCS - IT Analyst
+  * Amazon 
+  * Quotient Technologies
+  * Cognizant 
+  * TCS 
 ---
 
 ## 🛠️ Skills & Technologies
