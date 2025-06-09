@@ -127,6 +127,10 @@ Here's a summary of some of my key projects, showcasing my experience in data an
     * Achieved estimated monthly computed savings of **2,400 hours** of manual effort.
 * **Technologies Used:** MicroStrategy
 ---
+## Sample Dossier that I built which Won First Across all Regions ( MicroStrategy aka Strategy )
+
+* [Dossier](https://mobiledossier.microstrategy.com/MicroStrategyLibrary/app/EC70648611E7A2F962E90080EFD58751/FC121DD54DFFAD23C0D8B78ABB735E9B/K53--K46 )
+
 ## 🤝 Connect With Me
 
 * **LinkedIn:** [HemKumarSomala](https://www.linkedin.com/in/hemkumarsomala/)
