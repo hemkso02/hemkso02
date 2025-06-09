@@ -35,7 +35,10 @@ Welcome to my corner of GitHub!
 * **Google Analytics Qualified Individual** - *Google*
     * Credential ID: 46445207
 ---
+## Sample Dossier that I built which Won First Across all Regions ( MicroStrategy aka Strategy )
 
+* [Dossier](http://ow.ly/SvxO50DO0Cj)
+---
 ## 🌟 Accolades & Shout-Outs
 
 Here's some of the feedback I've received for my work:
@@ -127,10 +130,6 @@ Here's a summary of some of my key projects, showcasing my experience in data an
     * Achieved estimated monthly computed savings of **2,400 hours** of manual effort.
 * **Technologies Used:** MicroStrategy
 ---
-## Sample Dossier that I built which Won First Across all Regions ( MicroStrategy aka Strategy )
-
-* [Dossier](http://ow.ly/SvxO50DO0Cj)
-
 ## 🤝 Connect With Me
 
 * **LinkedIn:** [HemKumarSomala](https://www.linkedin.com/in/hemkumarsomala/)
