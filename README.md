@@ -35,7 +35,7 @@ Welcome to my corner of GitHub!
 * **Google Analytics Qualified Individual** - *Google*
     * Credential ID: 46445207
 ---
-## Sample Dossier that I built which Won First Across all Regions ( MicroStrategy aka Strategy )
+## A sample dossier I developed secured first place across all regions in MicroStrategy (also known as Strategy
 
 * [Dossier](http://ow.ly/SvxO50DO0Cj)
 ---
