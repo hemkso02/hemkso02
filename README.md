@@ -129,7 +129,7 @@ Here's a summary of some of my key projects, showcasing my experience in data an
 ---
 ## Sample Dossier that I built which Won First Across all Regions ( MicroStrategy aka Strategy )
 
-* [Dossier](https://mobiledossier.microstrategy.com/MicroStrategyLibrary/app/EC70648611E7A2F962E90080EFD58751/FC121DD54DFFAD23C0D8B78ABB735E9B/K53--K46)
+* [Dossier](http://ow.ly/SvxO50DO0Cj)
 
 ## 🤝 Connect With Me
 
